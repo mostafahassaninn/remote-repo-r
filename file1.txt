@@ -1,1 +1,2 @@
 first line in gitrepo folder in file1.txt file
+second line in file1.txt
